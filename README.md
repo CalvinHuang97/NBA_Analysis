@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### This is a case study for analyzing the changes in the NBA over the past decade. As a junior data analyst, I will be collecting and analyzing data from the NBA official website for statistics in NBA games. My goal is to discover what direction the game is the NBA games are heading and how it could potentially affect youths who follows the NBA.
+### This is a personal project at analyzing how the game changed in the NBA over the past decade. As a junior data analyst, I will be collecting and analyzing data from the NBA official website for statistics in NBA games. My goal is to discover what direction the game is the NBA games are heading and how it could potentially affect youths who follows the NBA.
 
 In order to realize my goal, six steps of data analysis were utilized to draw a conclusion. The six steps of data analysis are:
 - Ask
