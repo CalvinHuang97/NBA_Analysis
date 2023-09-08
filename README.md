@@ -14,4 +14,4 @@ In order to realize my goal, six steps of data analysis were utilized to draw a 
 
 Raw data were retrieved from: **<a href="https://www.nba.com/stats/alltime-leaders" rel="nofollow">NBA Stats Since 2010</a>**
 
-Project portfolio: **<a href="https://medium.com/@calvin_huang97/google-data-analytics-certificate-capstone-project-3e9fae105cfa" rel="nofollow">How Did The Game Change Over The Past Years?</a>**
+Project portfolio: **<a href="https://medium.com/@calvin_huang97/how-did-the-game-change-over-the-past-years-196feab27c20" rel="nofollow">How Did The Game Change Over The Past Years?</a>**
